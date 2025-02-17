@@ -12,7 +12,7 @@ Before anything else: **replace**:
 In `package.json`
 
 *   `@yourname` with your actual NPM account name in the package name.
-     ** Be sure to retain the `@` per NPM's scope policy as explained below.
+     ** Be sure to retain the `@` per NPM's scope policy as explained below.npm
 *   `Your Name` with your real name in the author field.
 *   `yourusername` with your GitHub account name.
 
@@ -35,7 +35,7 @@ In `README.md`
 3. **See:** REQUIREMENTS.md file to review the requirements for the code in `calculator.js` needed to pass the tests.
 
 34. Implement the missing JavaScript code in `calculator.js` using the functions from the `stmnts-01.js` and `stmnts-01.js` files.
-   
+
 36. **Hint:** Use if-then-else conditionals in your implementation.
 
 5. Test until passing
